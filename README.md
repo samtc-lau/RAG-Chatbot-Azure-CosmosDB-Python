@@ -1,1 +1,3 @@
-In this sample, we'll demonstrate how to build a RAG Pattern application using a subset of the Movie Lens dataset. This sample will leverage the Python SDK for Azure Cosmos DB for NoSQL to perform vector search for RAG, store and retrieve chat history, and store the vectors of the chat history to use as a semantic cache. Azure OpenAI to generate embeddings and LLM completions.
+# A RAG chatbot powered by Azure Cosmos DB and Azure OpenAI Service
+
+This is a sample Flask app used for learning and demonstrating RAG with Azure Cosmos DB and Azure OpenAI Service referencing [A Movie Chatbot powered by Azure Cosmos DB and Azure OpenAI Service](https://github.com/AzureCosmosDB/Fabric-Conf-2024-Build-AI-Apps/tree/main).
